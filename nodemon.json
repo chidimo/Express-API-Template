@@ -1,5 +1,6 @@
 {
   "watch": [
+    ".env",
     "package.json",
     "nodemon.json",
     ".eslintrc.json",
