@@ -6,6 +6,8 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b6cf857f9c2ff789743e/test_coverage)](https://codeclimate.com/github/chidimo/Express-API-Template/test_coverage)
 [![Build status](https://ci.appveyor.com/api/projects/status/h2uvmx9yft68k6b2?svg=true)](https://ci.appveyor.com/project/chidimo/express-api-template)
 
+Live API endpoint: <https://express-api-template.herokuapp.com/v1> 
+
 ## How to run the app
 
 1. Clone the repo
