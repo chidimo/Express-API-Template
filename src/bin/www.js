@@ -41,11 +41,11 @@ const onError = error => {
   // handle specific listen errors with friendly messages
   switch (error.code) {
   case 'EACCES':
-    alert(`${bind} requires elevated privileges`);
+    console.log(`${bind} requires elevated privileges`);
     process.exit(1);
     break;
   case 'EADDRINUSE':
-    alert(`${bind} is already in use`);
+    console.log(`${bind} is already in use`);
     process.exit(1);
     break;
   default:
