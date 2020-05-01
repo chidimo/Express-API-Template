@@ -6,12 +6,14 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b6cf857f9c2ff789743e/test_coverage)](https://codeclimate.com/github/chidimo/Express-API-Template/test_coverage)
 [![Build status](https://ci.appveyor.com/api/projects/status/h2uvmx9yft68k6b2?svg=true)](https://ci.appveyor.com/project/chidimo/express-api-template)
 
-Live API endpoint: <https://express-api-template.herokuapp.com/v1> 
+Live API endpoint: <https://express-api-template.herokuapp.com/v1>
+
+Read the article here <https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgresql/>
 
 ## How to run the app
 
 1. Clone the repo
-1. Create a `.env` file at the project root and provide the following environment variables 
+1. Create a `.env` file at the project root and provide the following environment variables
 
     TEST_ENV_VARIABLE="some arbitrary string"
     CONNECTION_STRING="a url pointing to a PostgreSQL database"
